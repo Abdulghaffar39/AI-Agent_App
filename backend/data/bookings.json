@@ -1,0 +1,199 @@
+{
+  "bookings": [
+    {
+      "bookingId": "BK-9C5YH449",
+      "userId": "mobile_user_1",
+      "status": "confirmed",
+      "createdAt": "2026-05-19T07:54:16.200Z",
+      "service": {
+        "type": "AC Technician",
+        "description": "Mujhe kal subah G-13 mein AC technician chahiye"
+      },
+      "provider": {
+        "id": "p002",
+        "name": "Cool Breeze AC Repair",
+        "nameUrdu": "کول بریز اے سی مرمت",
+        "phone": "+92-301-2345678",
+        "area": "G-13",
+        "rating": 4.5,
+        "priceRange": "Rs. 1000-2500"
+      },
+      "schedule": {
+        "date": "tomorrow",
+        "displayDate": "Tomorrow, Morning (8-12)",
+        "timeSlot": "10:00 AM",
+        "estimatedDuration": "1-2 hours"
+      },
+      "confirmation": {
+        "message": "✅ Booking Confirmed!\n\nBooking ID: BK-9C5YH449\nService: AC Technician\nProvider: Cool Breeze AC Repair\n📞 Contact: +92-301-2345678\n📅 Date: Tomorrow, Morning (8-12)\n🕐 Time: 10:00 AM\n📍 Area: G-13\n💰 Estimated: Rs. 1000-2500\n\nYour provider will arrive at the scheduled time. You will receive a reminder 1 hour before.",
+        "messageUrdu": "✅ بکنگ کنفرم!\n\nبکنگ نمبر: BK-9C5YH449\nسروس: کول بریز اے سی مرمت\n📞 رابطہ: +92-301-2345678\n📅 تاریخ: Tomorrow, Morning (8-12)\n🕐 وقت: 10:00 AM\n📍 علاقہ: G-13\n💰 تخمینہ: Rs. 1000-2500\n\nآپ کا سروس فراہم کنندہ مقررہ وقت پر پہنچ جائے گا۔ اپائنٹمنٹ سے 1 گھنٹہ پہلے ریمائنڈر بھیجا جائے گا۔",
+        "sentAt": "2026-05-19T07:54:16.201Z",
+        "sentVia": "SMS & In-App"
+      },
+      "receipt": {
+        "bookingId": "BK-9C5YH449",
+        "service": "AC Technician",
+        "provider": "Cool Breeze AC Repair",
+        "estimatedCost": "Rs. 1000-2500",
+        "paymentMode": "Cash on Service",
+        "generatedAt": "2026-05-19T07:54:16.201Z"
+      }
+    },
+    {
+      "bookingId": "BK-NRXFBDD8",
+      "userId": "mobile_user_1",
+      "status": "confirmed",
+      "createdAt": "2026-05-19T07:54:56.434Z",
+      "service": {
+        "type": "AC Technician",
+        "description": "Mujhe kal subah G-13 mein AC technician chahiye"
+      },
+      "provider": {
+        "id": "p002",
+        "name": "Cool Breeze AC Repair",
+        "nameUrdu": "کول بریز اے سی مرمت",
+        "phone": "+92-301-2345678",
+        "area": "G-13",
+        "rating": 4.5,
+        "priceRange": "Rs. 1000-2500"
+      },
+      "schedule": {
+        "date": "tomorrow",
+        "displayDate": "Tomorrow, Morning (8-12)",
+        "timeSlot": "10:00 AM",
+        "estimatedDuration": "1-2 hours"
+      },
+      "confirmation": {
+        "message": "✅ Booking Confirmed!\n\nBooking ID: BK-NRXFBDD8\nService: AC Technician\nProvider: Cool Breeze AC Repair\n📞 Contact: +92-301-2345678\n📅 Date: Tomorrow, Morning (8-12)\n🕐 Time: 10:00 AM\n📍 Area: G-13\n💰 Estimated: Rs. 1000-2500\n\nYour provider will arrive at the scheduled time. You will receive a reminder 1 hour before.",
+        "messageUrdu": "✅ بکنگ کنفرم!\n\nبکنگ نمبر: BK-NRXFBDD8\nسروس: کول بریز اے سی مرمت\n📞 رابطہ: +92-301-2345678\n📅 تاریخ: Tomorrow, Morning (8-12)\n🕐 وقت: 10:00 AM\n📍 علاقہ: G-13\n💰 تخمینہ: Rs. 1000-2500\n\nآپ کا سروس فراہم کنندہ مقررہ وقت پر پہنچ جائے گا۔ اپائنٹمنٹ سے 1 گھنٹہ پہلے ریمائنڈر بھیجا جائے گا۔",
+        "sentAt": "2026-05-19T07:54:56.437Z",
+        "sentVia": "SMS & In-App"
+      },
+      "receipt": {
+        "bookingId": "BK-NRXFBDD8",
+        "service": "AC Technician",
+        "provider": "Cool Breeze AC Repair",
+        "estimatedCost": "Rs. 1000-2500",
+        "paymentMode": "Cash on Service",
+        "generatedAt": "2026-05-19T07:54:56.437Z"
+      }
+    },
+    {
+      "bookingId": "BK-EOIQWEXX",
+      "userId": "mobile_user_1",
+      "status": "confirmed",
+      "createdAt": "2026-05-19T07:58:48.770Z",
+      "service": {
+        "type": "AC Technician",
+        "description": "Mujhe kal subah G-13 mein AC technician chahiye"
+      },
+      "provider": {
+        "id": "p002",
+        "name": "Cool Breeze AC Repair",
+        "nameUrdu": "کول بریز اے سی مرمت",
+        "phone": "+92-301-2345678",
+        "area": "G-13",
+        "rating": 4.5,
+        "priceRange": "Rs. 1000-2500"
+      },
+      "schedule": {
+        "date": "tomorrow",
+        "displayDate": "Tomorrow, Morning (8-12)",
+        "timeSlot": "10:00 AM",
+        "estimatedDuration": "1-2 hours"
+      },
+      "confirmation": {
+        "message": "✅ Booking Confirmed!\n\nBooking ID: BK-EOIQWEXX\nService: AC Technician\nProvider: Cool Breeze AC Repair\n📞 Contact: +92-301-2345678\n📅 Date: Tomorrow, Morning (8-12)\n🕐 Time: 10:00 AM\n📍 Area: G-13\n💰 Estimated: Rs. 1000-2500\n\nYour provider will arrive at the scheduled time. You will receive a reminder 1 hour before.",
+        "messageUrdu": "✅ بکنگ کنفرم!\n\nبکنگ نمبر: BK-EOIQWEXX\nسروس: کول بریز اے سی مرمت\n📞 رابطہ: +92-301-2345678\n📅 تاریخ: Tomorrow, Morning (8-12)\n🕐 وقت: 10:00 AM\n📍 علاقہ: G-13\n💰 تخمینہ: Rs. 1000-2500\n\nآپ کا سروس فراہم کنندہ مقررہ وقت پر پہنچ جائے گا۔ اپائنٹمنٹ سے 1 گھنٹہ پہلے ریمائنڈر بھیجا جائے گا۔",
+        "sentAt": "2026-05-19T07:58:48.770Z",
+        "sentVia": "SMS & In-App"
+      },
+      "receipt": {
+        "bookingId": "BK-EOIQWEXX",
+        "service": "AC Technician",
+        "provider": "Cool Breeze AC Repair",
+        "estimatedCost": "Rs. 1000-2500",
+        "paymentMode": "Cash on Service",
+        "generatedAt": "2026-05-19T07:58:48.770Z"
+      }
+    },
+    {
+      "bookingId": "BK-8MB6ON4B",
+      "userId": "mobile_user_1",
+      "status": "confirmed",
+      "createdAt": "2026-05-19T07:59:32.370Z",
+      "service": {
+        "type": "AC Technician",
+        "description": "Mujhe kal subah G-13 mein AC technician chahiye"
+      },
+      "provider": {
+        "id": "p002",
+        "name": "Cool Breeze AC Repair",
+        "nameUrdu": "کول بریز اے سی مرمت",
+        "phone": "+92-301-2345678",
+        "area": "G-13",
+        "rating": 4.5,
+        "priceRange": "Rs. 1000-2500"
+      },
+      "schedule": {
+        "date": "tomorrow",
+        "displayDate": "Tomorrow, Morning (8-12)",
+        "timeSlot": "10:00 AM",
+        "estimatedDuration": "1-2 hours"
+      },
+      "confirmation": {
+        "message": "✅ Booking Confirmed!\n\nBooking ID: BK-8MB6ON4B\nService: AC Technician\nProvider: Cool Breeze AC Repair\n📞 Contact: +92-301-2345678\n📅 Date: Tomorrow, Morning (8-12)\n🕐 Time: 10:00 AM\n📍 Area: G-13\n💰 Estimated: Rs. 1000-2500\n\nYour provider will arrive at the scheduled time. You will receive a reminder 1 hour before.",
+        "messageUrdu": "✅ بکنگ کنفرم!\n\nبکنگ نمبر: BK-8MB6ON4B\nسروس: کول بریز اے سی مرمت\n📞 رابطہ: +92-301-2345678\n📅 تاریخ: Tomorrow, Morning (8-12)\n🕐 وقت: 10:00 AM\n📍 علاقہ: G-13\n💰 تخمینہ: Rs. 1000-2500\n\nآپ کا سروس فراہم کنندہ مقررہ وقت پر پہنچ جائے گا۔ اپائنٹمنٹ سے 1 گھنٹہ پہلے ریمائنڈر بھیجا جائے گا۔",
+        "sentAt": "2026-05-19T07:59:32.371Z",
+        "sentVia": "SMS & In-App"
+      },
+      "receipt": {
+        "bookingId": "BK-8MB6ON4B",
+        "service": "AC Technician",
+        "provider": "Cool Breeze AC Repair",
+        "estimatedCost": "Rs. 1000-2500",
+        "paymentMode": "Cash on Service",
+        "generatedAt": "2026-05-19T07:59:32.371Z"
+      }
+    },
+    {
+      "bookingId": "BK-WSA3THDW",
+      "userId": "mobile_user_1",
+      "status": "confirmed",
+      "createdAt": "2026-05-19T08:00:57.604Z",
+      "service": {
+        "type": "AC Technician",
+        "description": "Mujhe kal subah G-13 mein AC technician chahiye"
+      },
+      "provider": {
+        "id": "p002",
+        "name": "Cool Breeze AC Repair",
+        "nameUrdu": "کول بریز اے سی مرمت",
+        "phone": "+92-301-2345678",
+        "area": "G-13",
+        "rating": 4.5,
+        "priceRange": "Rs. 1000-2500"
+      },
+      "schedule": {
+        "date": "tomorrow",
+        "displayDate": "Tomorrow, Morning (8-12)",
+        "timeSlot": "10:00 AM",
+        "estimatedDuration": "1-2 hours"
+      },
+      "confirmation": {
+        "message": "✅ Booking Confirmed!\n\nBooking ID: BK-WSA3THDW\nService: AC Technician\nProvider: Cool Breeze AC Repair\n📞 Contact: +92-301-2345678\n📅 Date: Tomorrow, Morning (8-12)\n🕐 Time: 10:00 AM\n📍 Area: G-13\n💰 Estimated: Rs. 1000-2500\n\nYour provider will arrive at the scheduled time. You will receive a reminder 1 hour before.",
+        "messageUrdu": "✅ بکنگ کنفرم!\n\nبکنگ نمبر: BK-WSA3THDW\nسروس: کول بریز اے سی مرمت\n📞 رابطہ: +92-301-2345678\n📅 تاریخ: Tomorrow, Morning (8-12)\n🕐 وقت: 10:00 AM\n📍 علاقہ: G-13\n💰 تخمینہ: Rs. 1000-2500\n\nآپ کا سروس فراہم کنندہ مقررہ وقت پر پہنچ جائے گا۔ اپائنٹمنٹ سے 1 گھنٹہ پہلے ریمائنڈر بھیجا جائے گا۔",
+        "sentAt": "2026-05-19T08:00:57.605Z",
+        "sentVia": "SMS & In-App"
+      },
+      "receipt": {
+        "bookingId": "BK-WSA3THDW",
+        "service": "AC Technician",
+        "provider": "Cool Breeze AC Repair",
+        "estimatedCost": "Rs. 1000-2500",
+        "paymentMode": "Cash on Service",
+        "generatedAt": "2026-05-19T08:00:57.605Z"
+      }
+    }
+  ]
+}
